@@ -46,7 +46,8 @@ const siteConfig = {
 
   headerLinks: [ 
     {doc: 'others/doc1', label: 'Mulai Disini!'},
-    {blog: true, label: 'Blog'}
+    {blog: true, label: 'Blog'},
+    { search: true }
   ],
 
   // If you have users set above, you add it here:
@@ -83,6 +84,13 @@ const siteConfig = {
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
     theme: 'default',
+  },
+
+  algolia: {
+    placeholder: 'Pencarian',
+    apiKey: '7ca088d24bb7ed06a00d728c955807bf',
+    indexName: 'prima',
+    algoliaOptions: {} // Optional, if provided by Algolia
   },
 
   // Add custom scripts here that would be placed in <script> tags.
