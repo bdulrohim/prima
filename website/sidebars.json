@@ -5,7 +5,8 @@
     	"rawat-jalan/intro",
     	"rawat-inap/intro",
     	"rekam-medis/intro",
-        "bank-darah/intro"
+        "bank-darah/intro",
+        "kasir/intro"
     ],
     "Lainnya": ["lainnya"]
   },
