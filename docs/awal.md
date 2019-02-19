@@ -1,6 +1,6 @@
 ---
 id: awal
-title: Cara Memulai
+title: Cara Memulai Aplikasi
 sidebar_label: Cara Memulai
 ---
 
