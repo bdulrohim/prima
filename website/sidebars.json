@@ -1,10 +1,11 @@
 {
   "docs": {
-  	"Pembukaan": ["pengantar"],
-    "Daftar Modul": [
+  	"Pembukaan": ["pengantar","awal"],
+    	"Daftar Modul": [
     	"rawat-jalan/intro",
     	"rawat-inap/intro",
-    	"rekam-medis/intro"
+    	"rekam-medis/intro",
+        "bank-darah/intro"
     ],
     "Lainnya": ["lainnya"]
   },
